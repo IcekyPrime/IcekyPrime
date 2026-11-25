@@ -29,7 +29,7 @@
 
 ## About
 
-I'm an SJTU student exploring AI through speech technology and UAV systems. My current work spans speech generation and editing, language adaptation, LLM agents, and sim-to-real autonomy.
+I'm an SJTU student exploring AI through speech technology, UAV systems and so on. My current work spans speech generation and editing, language adaptation, LLM agents, and sim-to-real autonomy.
 
 I enjoy turning research ideas into working prototypes, then testing where they break. Away from code, I create fan works centered on a fixed cast of favorite anime characters. I'm still learning, and constructive feedback is always welcome.
 
@@ -64,7 +64,7 @@ I enjoy turning research ideas into working prototypes, then testing where they 
 ## Creative Work
 
 <a href="https://www.bilibili.com/video/BV1caoQYAEXr">
-  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/video-card.png" alt="The Day You Vanished with the Stars — fan-made visual novel promotional video on Bilibili" width="100%" /></a>
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/video-card.png" alt="Starlit Astrologos — fan-made visual novel promotional video on Bilibili" width="100%" /></a>
 
 ## Toolbox
 
