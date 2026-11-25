@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="210" viewBox="0 0 640 210" role="img">
+<rect x="1" y="1" width="638" height="208" rx="18" fill="#FFFFFF" stroke="#D1D9E0" stroke-width="2"/>
+<path d="M18 1 H7 Q1 1 1 7 V203 Q1 209 7 209 H18 Z" fill="#33FFDD"/>
+<text x="34" y="38" fill="#59636E" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.6" text-anchor="start">SPEECH FOUNDATION MODEL</text>
+<text x="602" y="39" fill="#8C959F" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="1" text-anchor="end">02</text>
+<text x="34" y="87" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="700" letter-spacing="0" text-anchor="start">AuK</text>
+<text x="34" y="126" fill="#59636E" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing="0" text-anchor="start">Open-source speech generation and editing,</text>
+<text x="34" y="151" fill="#59636E" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing="0" text-anchor="start">from enhancement to zero-shot TTS.</text>
+<circle cx="41" cy="181" r="5" fill="#33FFDD" stroke="#00A88F"/>
+<text x="56" y="187" fill="#59636E" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.2" text-anchor="start">PYTHON · PYTORCH</text>
+<text x="602" y="187" fill="#007D6D" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.1" text-anchor="end">VIEW  &gt;</text>
+</svg>

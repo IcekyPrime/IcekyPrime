@@ -1,10 +1,100 @@
-<h1 align="center">Hi 👋, I'm Iceky Prime</h1>
-<h3 align="center">A passionate developer from China</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/header.png" alt="Theresa Apocalypse stargazing illustration" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/avatar.png" alt="Iceky Prime monogram" width="124" />
+</p>
 
+<h1 align="center">Iceky Prime</h1>
+
+<p align="center">
+  <strong>AI · SPEECH INTELLIGENCE · AUTONOMOUS FLIGHT</strong><br />
+  <sub>Student at Shanghai Jiao Tong University</sub>
+</p>
+
+<p align="center">
+  Building systems that listen, speak, and find their way through the world.
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/Iceky">
+    <img src="https://img.shields.io/badge/Hugging_Face-Iceky-111111?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face: Iceky" />
+  </a>
+  &nbsp;
+  <a href="mailto:icekyprime@gmail.com">
+    <img src="https://img.shields.io/badge/Email-icekyprime@gmail.com-111111?style=flat-square&amp;logo=gmail&amp;logoColor=33FFDD" alt="Email: icekyprime@gmail.com" />
+  </a>
+</p>
+
+---
+
+## About
+
+I'm an SJTU student exploring AI through speech technology and UAV systems. My current work spans speech generation and editing, language adaptation, LLM agents, and sim-to-real autonomy.
+
+I enjoy turning research ideas into working prototypes, then testing where they break. Away from code, I create fan works centered on a fixed cast of favorite anime characters. I'm still learning, and constructive feedback is always welcome.
+
+## Featured Work
+
+<p align="center">
+  <a href="https://github.com/IcekyPrime/SJTU_SignIn_Monitor">
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-01.svg" alt="SJTU SignIn Monitor — Canvas attendance monitoring with audio alerts" width="49%" />
+  </a>
+  <a href="https://github.com/Tencent-Hunyuan/AuK">
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-02.svg" alt="AuK — an open-source foundation model for speech generation and editing" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IcekyPrime/uavsa-sim2real">
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-03.svg" alt="UAVSA Sim2Real — LLM agents, PX4, Gazebo, and EGO-Planner for UAV autonomy" width="49%" />
+  </a>
+  <a href="https://github.com/IcekyPrime/Mining-Faculty-Profiles-for-Personalized-Advisor-Recommendation">
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-04.svg" alt="Personalized Advisor Recommendation — faculty-profile mining for advisor discovery" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IcekyPrime/apa-parking-gazebo">
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-05.svg" alt="APA Parking Gazebo — SLAM, Transformer prediction, and Hybrid A* parking planning" width="49%" />
+  </a>
+  <a href="https://github.com/IcekyPrime/Review-of-Audio-Editing">
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-06.svg" alt="Audio Editing Review — research notes, model comparisons, and code pointers" width="49%" />
+  </a>
+</p>
+
+## Open Model
+
+<a href="https://huggingface.co/Iceky/AuK-French-LoRA">
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/model-card.svg" alt="AuK-French-LoRA on Hugging Face — French language adaptation for Tencent AuK" width="100%" />
+</a>
+
+## Creative Work
+
+<a href="https://www.bilibili.com/video/BV1caoQYAEXr">
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/video-card.png" alt="The Day You Vanished with the Stars — fan-made visual novel promotional video on Bilibili" width="100%" />
+</a>
+
+## Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&amp;logo=cplusplus&amp;logoColor=33FFDD" alt="C++" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&amp;logo=pytorch&amp;logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/ROS-111111?style=flat-square&amp;logo=ros&amp;logoColor=33FFDD" alt="ROS" />
+  <img src="https://img.shields.io/badge/TTS-Speech_Synthesis-111111?style=flat-square" alt="TTS speech synthesis" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MATLAB-111111?style=flat-square&amp;logo=matlab&amp;logoColor=FF7A59" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/LaTeX-111111?style=flat-square&amp;logo=latex&amp;logoColor=33FFDD" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Markdown-111111?style=flat-square&amp;logo=markdown&amp;logoColor=FFFFFF" alt="Markdown" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Learning in public. Building with curiosity.</strong><br />
+  <sub>Thoughtful feedback, research discussions, and creative collaborations are always welcome.</sub>
+</p>
