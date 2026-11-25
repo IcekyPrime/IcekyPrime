@@ -19,12 +19,10 @@
 
 <p align="center">
   <a href="https://huggingface.co/Iceky">
-    <img src="https://img.shields.io/badge/Hugging_Face-Iceky-111111?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face: Iceky" />
-  </a>
+    <img src="https://img.shields.io/badge/Hugging_Face-Iceky-111111?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face: Iceky" /></a>
   &nbsp;
   <a href="mailto:icekyprime@gmail.com">
-    <img src="https://img.shields.io/badge/Email-icekyprime@gmail.com-111111?style=flat-square&amp;logo=gmail&amp;logoColor=33FFDD" alt="Email: icekyprime@gmail.com" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-icekyprime@gmail.com-111111?style=flat-square&amp;logo=gmail&amp;logoColor=33FFDD" alt="Email: icekyprime@gmail.com" /></a>
 </p>
 
 ---
@@ -39,42 +37,34 @@ I enjoy turning research ideas into working prototypes, then testing where they 
 
 <p align="center">
   <a href="https://github.com/IcekyPrime/SJTU_SignIn_Monitor">
-    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-01.svg" alt="SJTU SignIn Monitor — Canvas attendance monitoring with audio alerts" width="49%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-01.svg" alt="SJTU SignIn Monitor — Canvas attendance monitoring with audio alerts" width="49%" /></a>
   <a href="https://github.com/Tencent-Hunyuan/AuK">
-    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-02.svg" alt="AuK — an open-source foundation model for speech generation and editing" width="49%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-02.svg" alt="AuK — an open-source foundation model for speech generation and editing" width="49%" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/IcekyPrime/uavsa-sim2real">
-    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-03.svg" alt="UAVSA Sim2Real — LLM agents, PX4, Gazebo, and EGO-Planner for UAV autonomy" width="49%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-03.svg" alt="UAVSA Sim2Real — LLM agents, PX4, Gazebo, and EGO-Planner for UAV autonomy" width="49%" /></a>
   <a href="https://github.com/IcekyPrime/Mining-Faculty-Profiles-for-Personalized-Advisor-Recommendation">
-    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-04.svg" alt="Personalized Advisor Recommendation — faculty-profile mining for advisor discovery" width="49%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-04.svg" alt="Personalized Advisor Recommendation — faculty-profile mining for advisor discovery" width="49%" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/IcekyPrime/apa-parking-gazebo">
-    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-05.svg" alt="APA Parking Gazebo — SLAM, Transformer prediction, and Hybrid A* parking planning" width="49%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-05.svg" alt="APA Parking Gazebo — SLAM, Transformer prediction, and Hybrid A* parking planning" width="49%" /></a>
   <a href="https://github.com/IcekyPrime/Review-of-Audio-Editing">
-    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-06.svg" alt="Audio Editing Review — research notes, model comparisons, and code pointers" width="49%" />
-  </a>
+    <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/cards/project-06.svg" alt="Audio Editing Review — research notes, model comparisons, and code pointers" width="49%" /></a>
 </p>
 
 ## Open Model
 
 <a href="https://huggingface.co/Iceky/AuK-French-LoRA">
-  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/model-card.svg" alt="AuK-French-LoRA on Hugging Face — French language adaptation for Tencent AuK" width="100%" />
-</a>
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/model-card.svg" alt="AuK-French-LoRA on Hugging Face — French language adaptation for Tencent AuK" width="100%" /></a>
 
 ## Creative Work
 
 <a href="https://www.bilibili.com/video/BV1caoQYAEXr">
-  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/video-card.png" alt="The Day You Vanished with the Stars — fan-made visual novel promotional video on Bilibili" width="100%" />
-</a>
+  <img src="https://raw.githubusercontent.com/IcekyPrime/IcekyPrime/main/assets/video-card.png" alt="The Day You Vanished with the Stars — fan-made visual novel promotional video on Bilibili" width="100%" /></a>
 
 ## Toolbox
 
